@@ -1,4 +1,4 @@
-Machine Learning Approach For Crop Yield Prediction
+**Machine Learning Approach For Crop Yield Prediction**
 
 Problem Statement
 Predicting the crop yield based on parameters like temperature, rainfall and other soil features (pH, N, P, K etc.) using machine learning approaches.
