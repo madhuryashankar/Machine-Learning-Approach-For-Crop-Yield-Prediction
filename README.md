@@ -1,6 +1,7 @@
 **Machine Learning Approach For Crop Yield Prediction**
 
 Problem Statement
+
 Predicting the crop yield based on parameters like temperature, rainfall and other soil features (pH, N, P, K etc.) using machine learning approaches.
 
 Motivation
@@ -10,6 +11,7 @@ Motivation
 4. Modernization of agriculture is very important and will lead the farmers of our country towards profit.
 
 Objectives
+
 • To develop a model by considering various parameters like temperature, rainfall, PH value, nitrogen, potassium, iron, zinc etc.
 
 • To use Machine Learning algorithms to classify and predict the crop yield.
